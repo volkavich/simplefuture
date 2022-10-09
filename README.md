@@ -1,1 +1,1 @@
-# SimpleFuture Plymouth Theme
+# SimpleFuture
