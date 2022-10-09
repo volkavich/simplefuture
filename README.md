@@ -1,7 +1,5 @@
 # SimpleFuture Plymouth Theme
-A Simple and Minimal Plymouth Theme for Debian.
-
-Inspired and modified from FuturePrototype Theme
+A Simple and Minimal Plymouth Theme for Debian. Inspired and modified from FuturePrototype Theme
 
 ![](sample.jpg)
 
