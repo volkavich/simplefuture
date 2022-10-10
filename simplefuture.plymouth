@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=SimpleFuture - a simple plymouth theme for Debian.
-Description=A theme that featuring a simple debian logo and progress bar inspired by FuturePrototype.
+Description=A theme featuring a simple debian logo and progress bar inspired by FuturePrototype.
 ModuleName=script
 
 [script]
